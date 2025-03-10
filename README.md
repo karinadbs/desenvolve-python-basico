@@ -3,4 +3,4 @@
 
 2 - Programação básica com Python;
 
-3- PD.
+3- PDITA650.
